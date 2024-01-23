@@ -5,6 +5,7 @@ export default function Header() {
         <img src = "/dist/src/assets/img/spy avatar.png"></img>
         <img src = "/src/assets/img/spy avatar.png"></img>
         <img src = "/assets/spy avatar.png"></img>
+        <img src = "/spy avatar.png"></img>
         
     </>
     )
