@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom'
 
 export default function Project({ projects }) {
     return (
-        <div>
+        <div className='img-small-container'>
         {projects.map((project) => project)}
         </div>
     )
