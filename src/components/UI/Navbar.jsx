@@ -1,10 +1,10 @@
-export default function Navbar() {
+export default function Navbar({ links }) {
     return (
         <nav>
           <ul>
-            <li><a href="#about">About Me</a></li>
-            <li><a href="#recent-work">Recent Work</a></li>
-            <li><a href="#contact">Contact Info</a></li>
+            <li>
+                {links.map((link) => link)}
+            </li>
           </ul>  
         </nav>
     )
