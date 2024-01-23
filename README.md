@@ -5,13 +5,13 @@ The purpose of this assignment is to create a portfolio from scratch to demonstr
 
 
 ## Example Screenshot
-![example screenshot](./assets/img/screenshot.png)
+![example screenshot](./src/assets/img/screenshot.png)
 
 ## Live Website:
 The live website can be found [here](https://gabriel-viernes.github.io/Portfolio/)
 
 ## Bug Reports:
-Please use the issue tracker provided by Github [here](https://github.com/Gabriel-Viernes/Portfolio/issues) to submit bug reports
+Please use the issue tracker provided by Github [here](https://github.com/Gabriel-Viernes/react-portfolio/issues) to submit bug reports
 
 ## Sources:
 Fonts were available for free [here](https://www.dafont.com/)

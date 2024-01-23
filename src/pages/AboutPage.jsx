@@ -9,6 +9,7 @@ export default function AboutPage() {
                 <li>CSS</li>
                 <li>Javascript</li>
                 <li>mySQL</li>
+                <li>React</li>
             </ul>
         </section>
     )

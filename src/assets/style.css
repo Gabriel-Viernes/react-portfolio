@@ -211,5 +211,11 @@ footer li a {
         padding: 5px;
         justify-content: center;
     }
+    header img {
+        width: 30%;
+    }
+    header li a {
+        text-align:center;
+    }
 }
 /* #endregion */
