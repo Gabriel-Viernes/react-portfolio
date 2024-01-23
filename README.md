@@ -8,7 +8,7 @@ The purpose of this assignment is to create a portfolio from scratch to demonstr
 ![example screenshot](./src/assets/img/screenshot.png)
 
 ## Live Website:
-The live website can be found [here](https://gabriel-viernes.github.io/Portfolio/)
+The live website can be found [here](https://master--tubular-moxie-9206aa.netlify.app/)
 
 ## Bug Reports:
 Please use the issue tracker provided by Github [here](https://github.com/Gabriel-Viernes/react-portfolio/issues) to submit bug reports
