@@ -8,6 +8,8 @@ import AboutPage from './pages/AboutPage.jsx'
 import RecentPage from './pages/RecentPage.jsx'
 import ContactPage from './pages/ContactPage.jsx'
 
+import './assets/style.css'
+
 const router = createBrowserRouter([
     {
         path: '/',
